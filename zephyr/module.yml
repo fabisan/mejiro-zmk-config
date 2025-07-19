@@ -1,3 +1,5 @@
+name: zmk-keyboard-mejiro
+
 build:
   settings:
     board_root: .
